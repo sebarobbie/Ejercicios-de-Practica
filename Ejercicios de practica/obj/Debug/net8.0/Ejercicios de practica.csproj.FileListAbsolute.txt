@@ -1,0 +1,14 @@
+/Users/sebarobbie/Documents/Coding/Ejercicios de practica/obj/Debug/net8.0/Ejercicios de practica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebarobbie/Documents/Coding/Ejercicios de practica/obj/Debug/net8.0/Ejercicios de practica.AssemblyInfoInputs.cache
+/Users/sebarobbie/Documents/Coding/Ejercicios de practica/obj/Debug/net8.0/Ejercicios de practica.AssemblyInfo.cs
+/Users/sebarobbie/Documents/Coding/Ejercicios de practica/obj/Debug/net8.0/Ejercicios de practica.csproj.CoreCompileInputs.cache
+/Users/sebarobbie/Documents/Coding/Ejercicios de practica/bin/Debug/net8.0/Ejercicios de practica
+/Users/sebarobbie/Documents/Coding/Ejercicios de practica/bin/Debug/net8.0/Ejercicios de practica.deps.json
+/Users/sebarobbie/Documents/Coding/Ejercicios de practica/bin/Debug/net8.0/Ejercicios de practica.runtimeconfig.json
+/Users/sebarobbie/Documents/Coding/Ejercicios de practica/bin/Debug/net8.0/Ejercicios de practica.dll
+/Users/sebarobbie/Documents/Coding/Ejercicios de practica/bin/Debug/net8.0/Ejercicios de practica.pdb
+/Users/sebarobbie/Documents/Coding/Ejercicios de practica/obj/Debug/net8.0/Ejercicios de practica.dll
+/Users/sebarobbie/Documents/Coding/Ejercicios de practica/obj/Debug/net8.0/refint/Ejercicios de practica.dll
+/Users/sebarobbie/Documents/Coding/Ejercicios de practica/obj/Debug/net8.0/Ejercicios de practica.pdb
+/Users/sebarobbie/Documents/Coding/Ejercicios de practica/obj/Debug/net8.0/Ejercicios de practica.genruntimeconfig.cache
+/Users/sebarobbie/Documents/Coding/Ejercicios de practica/obj/Debug/net8.0/ref/Ejercicios de practica.dll
